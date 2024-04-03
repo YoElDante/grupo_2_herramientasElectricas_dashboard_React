@@ -1,8 +1,26 @@
-# React + Vite
+# Proyecto ElectroTools - DASHBOARD en REACT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Tecnologías](./public/img/React+Vite.jpg)
 
-Currently, two official plugins are available:
+Este proyecto responde al requerimiento del 8vo sprint del Proyecto Final del Curso de Digital House para el curso de Desarrollador Full Stack.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Banner del Proyecto](./public/img/Banner%20Logo%20Amarillo%20Negro.jpg)
+
+
+## Link a Proyecto Relacionado
+Aquí está el proyecto que consume las APIs y hace las veces de tablero de administrador.
+
+<a href="https://github.com/YoElDante/grupo_2_herramientasElectricas">
+📁 https://github.com/YoElDante/grupo_2_herramientasElectricas
+</a>
+
+## APIs
+Dejamos a mano las *url* de llamado a las APIs
+
+<a href="http://localhost:3000/api/users">
+👨‍💼 http://localhost:3000/api/users
+</a>
+
+<a href="http://localhost:3000/api/products">
+📦 http://localhost:3000/api/products
+</a>

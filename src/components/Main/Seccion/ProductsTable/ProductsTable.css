@@ -1,0 +1,26 @@
+.tabla-container {
+  font-size: 0.6rem;
+  margin: 2rem auto;
+  max-width: 800px;
+}
+
+.tabla-productos {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tabla-productos th, .tabla-productos td {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+}
+
+.tabla-productos th {
+  background-color: #ffb81c;
+  color: #11111f;
+  font-weight: bold;
+  text-align: left;
+}
+
+.tabla-productos tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}

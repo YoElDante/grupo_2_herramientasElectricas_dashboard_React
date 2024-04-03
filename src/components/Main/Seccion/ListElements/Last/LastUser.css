@@ -1,0 +1,93 @@
+fieldset{
+  padding-bottom: 0.5rem;
+  -o-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  border-radius: 25px;
+}
+
+h3{
+  font-size: 1.2rem;
+  text-align: center;
+  margin-top:0.5rem;
+  margin-bottom: 0;
+}
+
+h4{
+  font-size: 1rem;
+  text-align: center;
+  margin:0.25rem 0;
+}
+
+.lastRegister__main{
+  padding: 0.6rem 0.6rem;
+  display: flex;
+  justify-content: center;
+}
+
+.lastRegister__main img{
+
+  width: 5rem;
+  height: 5rem;
+
+  margin: 0.18rem;
+  
+  justify-self: center;
+  align-self: center;
+
+  border: #11111f solid 2px;
+  -o-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  border-radius: 25px;
+}
+
+.lastRegister__main__data{
+  padding: 0.5rem;
+  font-size: 0.8rem;
+}
+
+
+/* Botones */
+.buttons{
+    
+  justify-self: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+.button-change {
+
+  font-size: 0.75rem;
+  font-weight: 600;
+
+  background-color: #ffb81c;
+  
+  justify-content: center;
+  align-items: center;
+
+  margin: auto;
+  padding: 0 1rem;
+  margin-bottom: 0.5rem;
+
+  height: 2rem;
+  width: 10rem;
+  cursor: pointer;
+
+  border: #11111f solid 2px;
+  -o-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  border-radius: 25px;
+}
+
+
+.deleteAccount {
+  color: #ffb81c;
+  background-color: #11111f;
+}

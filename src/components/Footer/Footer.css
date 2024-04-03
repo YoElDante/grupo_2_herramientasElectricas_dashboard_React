@@ -1,0 +1,29 @@
+/* ------------------------------ */
+/*            FOOTER              */
+/* ------------------------------ */
+
+footer {
+  background-color: #11111f;
+  color: #dcdcdc;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+footer section article{
+  margin-top: 2rem;
+}
+
+/* Identidad */
+
+.identidad img {
+  width: 12rem;
+}
+
+.copyright {
+  color: #ffb81c;
+  text-decoration: none;
+  position: relative;
+  top: 0.5rem;
+  font-size: 0.5rem;
+}

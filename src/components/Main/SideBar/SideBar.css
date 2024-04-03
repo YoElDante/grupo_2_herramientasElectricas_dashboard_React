@@ -1,0 +1,50 @@
+/* ---------------------- */
+/*        SideBar         */
+/* ---------------------- */
+
+.sidebar {
+  width: 100%;
+  background-color: #eeeff4;
+  height: auto;
+  box-shadow: #11111f 0px 0.1875rem 0.3125rem;
+}
+
+.sidebar h1 {
+  text-align: center;
+  padding: 1rem 0;
+  margin: 0;
+  font-size: 1rem;
+  color: #eeeff4;
+  background-color: #11111f;
+  border-top: 2px 2px #eeeff4;
+  font-weight: 400;
+}
+
+.sidebar h1 b {
+
+  font-weight: 1000;
+}
+
+.sidebar ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  color: #11111f;
+  text-decoration: none;
+  font-size: 0.75rem;
+}
+
+.sidebar li {
+  margin: 1rem 0;
+}
+
+.sidebar li a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.sidebar li i {
+  margin-right: 0.25rem;
+  text-shadow: none;
+}
